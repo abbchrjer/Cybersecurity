@@ -26,7 +26,7 @@ Uppgiften använder en vanligt förekommande steganografi strategi, nämligen LS
 
 ## Uppskattad Svårighetsgrad
 
-- 0.4
+- 0.3
 - Svårt att tolka klassens styrka i ett område som är relativt nytt för många. Forensik kommer nog dessutom vara en underrepressenterad kategori på CTFen, och steganografi är antagligen ett område få kommer vara familjära vid. Man utför väldigt få steg för att hitta flaggan, och de är relativt enkla, men det kan dock vara svårt för oerfarna att komma på de stegen.
 
 ## Flagga
